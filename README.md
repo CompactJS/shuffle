@@ -1,4 +1,4 @@
-<h1 align="center">🗃<br/>@compactjs/shuffle</h1>
+<h1 align="center">🃏<br/>@compactjs/shuffle</h1>
 <h3 align="center">Shuffle arrays</h3>
 <p align="center">
   <a href="https://www.npmjs.com/package/@compactjs/shuffle" target="_blank">
