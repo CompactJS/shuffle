@@ -1,6 +1,6 @@
 {
   "name": "@compactjs/shuffle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shuffle arrays",
   "source": "src/index.js",
   "main": "dist/index.js",
