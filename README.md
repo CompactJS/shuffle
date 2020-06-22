@@ -4,7 +4,7 @@
   <a href="https://www.npmjs.com/package/@compactjs/shuffle" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/@compactjs/shuffle.svg">
   </a>
-  <a href="https://github.com/CompactJS/shuffle/blob/master/LICENSE" target="_blank">
+  <a href="https://github.com/CompactJS/shuffle/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/github/license/compactjs/shuffle" />
   </a>
 </p>
@@ -94,7 +94,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Distributed under the [MIT](https://github.com/CompactJS/shuffle/blob/master/LICENSE) License.
+Distributed under the [MIT](https://github.com/CompactJS/shuffle/blob/main/LICENSE) License.
 
 ---
 
