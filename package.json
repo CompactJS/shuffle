@@ -2,21 +2,19 @@
   "name": "@compactjs/shuffle",
   "version": "1.0.1",
   "description": "Shuffle arrays",
-  "source": "src/index.js",
+  "source": "src/index.ts",
   "main": "dist/index.js",
   "module": "dist/index.module.js",
   "unpkg": "dist/index.umd.js",
-  "types": "src/index.d.ts",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "microbundle",
     "dev": "microbundle watch",
     "prepare": "npm run build",
     "jest": "jest",
-    "lint": "eslint src",
-    "test": "npm run lint && npm run build && npm run jest"
+    "test": "npm run build && npm run jest"
   },
   "files": [
-    "src/index.d.ts",
     "dist"
   ],
   "repository": {
@@ -39,8 +37,6 @@
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/git": "^9.0.0",
     "@types/jest": "^25.2.1",
-    "eslint": "^6.8.0",
-    "eslint-plugin-jest": "^23.9.0",
     "jest": "^26.0.0",
     "microbundle": "^0.12.0-next.9",
     "semantic-release": "^17.0.7"
